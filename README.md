@@ -1,1 +1,1 @@
-Esta lista contém exercícios para praticar algoritmos e lógica de programação em Python. Os desafios abordam estruturas de controle, manipulação de dados, funções, recursão e algoritmos de busca e ordenação. Ideal para fortalecer sua base na linguagem!
+Este repositório contém uma lista de exercícios em Java, projetada para ajudar no aprendizado da linguagem e no desenvolvimento da lógica de programação. Os exercícios variam em dificuldade e abordam diferentes conceitos, como estruturas de controle, manipulação de strings, arrays, orientação a objetos e muito mais.
